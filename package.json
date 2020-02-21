@@ -1,0 +1,19 @@
+{
+  "name": "codility",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ant811/codility.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ant811/codility/issues"
+  },
+  "homepage": "https://github.com/ant811/codility#readme"
+}
