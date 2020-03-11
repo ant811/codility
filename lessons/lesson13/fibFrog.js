@@ -61,4 +61,4 @@ function solution(A) {
 
 // Time complexity: O(n * log(n))
 
-module.exports = { solution};
+module.exports = { solution };
